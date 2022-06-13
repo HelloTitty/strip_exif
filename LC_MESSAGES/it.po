@@ -1,0 +1,89 @@
+# Italian translations for 1 package
+# Traduzioni italiane per il pacchetto 1..
+# Copyright (C) 2022 THE 1'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the 1 package.
+# Automatically generated, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-13 15:22+0200\n"
+"PO-Revision-Date: 2022-06-13 15:22+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: strip_exif:8
+msgid "\\e[1mQuesto script rimuove i metadati cattivi dai files\\e[0m, anche "
+"conosciuti come\n"
+"\"Copyright\" (obbligo al non-uso/non-divulgazione).\n"
+"Sebbene il riconoscimento delle fonti è un atto più che doveroso e "
+"legittimo,\n"
+"il Copyright e il \"diritto d'autore\" sono un'invenzione diabolica "
+"dell'Impero\n"
+"di Alpha Draconis per impedire la divulgazione della conoscenza tra le "
+"persone e\n"
+"obbligarle a sottostare alle sue leggi draconiane e al terribile sistema di\n"
+"dominio attraverso la finanza a debito.\n"
+"\n"
+"Crediamo fermamente alla libera conoscenza e siamo contrari ad ogni sua "
+"forma di\n"
+"impedimento.\n"
+"Se hai un file - qualunque esso sia - è una pura forma di conoscenza e non "
+"devi\n"
+"sentirti obbligato/a ad alcunché."
+msgstr "\\e[1mThis script removes bad metadata from files\\e[0m, also known as "
+"\"Copyright\",\n"
+"(non-use/non-disclosure obligation).\n"
+"Although the recognition of sources is a more than dutiful and legitimate "
+"act,\n"
+"the \"Copyright\" is a diabolical invention of the Alpha Draconis Empire to\n"
+"prevent the disclosure of knowledge among people and force them to submit to "
+"his\n"
+"draconian laws and the terrible system of domination through debt finance.\n"
+"\n"
+"We firmly believe in free knowledge and we are against any form of its\n"
+"impediment.\n"
+"If you have a file - whatever it is - it's a pure form of knowledge and you\n"
+"don't have to feel obliged to do anything."
+
+msgid "Manca l'operatore principale."
+msgstr "Missing main operator."
+
+msgid "Manca un file o una directory da esaminare."
+msgstr "Missing file or directory to scan."
+
+msgid "Sintassi:"
+msgstr "Syntax:"
+
+msgid "non sembra essere installato, procedere con l'installazione? [y|n]"
+msgstr "does not seem to be installed, proceed with the installation? [y|n]"
+
+msgid "installato correttamente"
+msgstr "installed correctly"
+
+msgid "Procedo con la pulizia..."
+msgstr "Proceed with cleaning..."
+
+msgid "Per cortesia rispondi: digita \"y\" per \"Sì\" o \"n\" per \"No\"."
+msgstr "Please answer: type \"y\" for \"Yes\" or \"n\" for \"No\"."
+
+msgid "è una \\e[1mdirectory\\e[0m. Pulizia ricorsiva..."
+msgstr "is a \\e[1mdirectory\\e[0m. Recursive cleaning..."
+
+msgid "è un \\e[1mfile\\e[0m, lo pulisco..."
+msgstr "is a \\e[1mfile\\e[0m. clean it..."
+
+msgid "non è un file o una directory valida"
+msgstr "is not a valid file or directory"
+
+msgid "Fatto!"
+msgstr "Done!"
+
+msgid "Lettura dei metadati:"
+msgstr "Reading metadata:"
