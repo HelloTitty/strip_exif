@@ -1,24 +1,7 @@
 # Strip exif metadata
 Remove recursively bad metadata from files and directory
-```
---------------------------------------------------------------------------------
 
-                                 ,    ,^.    .
-                               ,'|  _ \ / _  |`.
-                              / /  `.\| |/,'  \ \
-                             / :     `. ,'     : \
-                            :  |      | |      |  :
-                            |  :      ; :      ;  |
-                            :   `.__,'   `.__,'   ;
-                             \                   /
-                              \                 /
-                               `.             ,'
-                                 `-._______,-'
-
-                              JOIN THE RESISTANCE
-
---------------------------------------------------------------------------------
-```
+![Join the resistance](join_the_resistance.jpg)
 
 This script removes bad metadata from files, also known as "Copyright" (non-use/non-disclosure obligation).<br>
 Although the recognition of sources is a more than dutiful and legitimate act, the "Copyright" is a diabolical invention of the Alpha Draconis Empire to prevent the disclosure of knowledge among people and force them to submit to his draconian laws and the terrible system of domination through debt finance.<br>
