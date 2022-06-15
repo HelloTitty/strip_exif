@@ -16,6 +16,6 @@ $ ./strip_exif [read|clean] [file|directory]
 ```
 
 ## Dependancies
-This script needs the `exiftool` package, but it test and install by itself.
+This script needs the `exiftool` package, but [it test and install by itself](https://github.com/HelloTitty/strip_exif/blob/main/strip_exif#L79-L104).
 
 Simply run it and enjoy ;)
